@@ -10,6 +10,7 @@ public class UsersystemApplication {
         SpringApplication.run(UsersystemApplication.class, args);
         System.out.println("123456");
         System.out.println("hello word");
+        System.out.println("hot-fix test");
     }
 
 }
