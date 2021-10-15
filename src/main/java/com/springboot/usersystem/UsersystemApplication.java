@@ -12,6 +12,7 @@ public class UsersystemApplication {
         System.out.println("hello word");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("456789");
     }
 
 }
