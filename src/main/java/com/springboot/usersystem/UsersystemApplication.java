@@ -13,6 +13,7 @@ public class UsersystemApplication {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("456789");
+        System.out.println("pull test");
     }
 
 }
